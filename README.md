@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  `51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3`
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: `51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3`</summary>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: <small>51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3</small></summary>
   <br/>
 
  ```
