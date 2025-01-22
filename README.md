@@ -32,7 +32,7 @@ info to come
 -->
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: <code>51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3</code></summary>
+  <summary><b>🔏&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: <code>51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3</code></summary>
   <br/>
 
  ```
@@ -93,13 +93,13 @@ R2vc0U7pWTvZ7L3I+w==
 </details>
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;Bantu Bitcoin's PGP&nbsp;Public&nbsp;Key</b>: <code>18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</code></summary>
+  <summary><b>🔏&nbsp;&nbsp;Bantu Bitcoin's PGP&nbsp;Public&nbsp;Key</b>: <code>18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</code></summary>
   <br/>
 
  ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: 18F2 2A92 488C D1BD E241  1490 D514 43B7 90D3 DDAF
-Comment: BantuBitcoin@protonmail.com <BantuBitcoin@protonmail.co
+Comment: BantuBitcoin@protonmail.com <BantuBitcoin@protonmail.com
 
 xsFNBGQVmowBEAChN/BVsClheU+UyWQWSs80bgDftEOGsgkSGMMmH6l272gb02yk
 Ve6Fx7C1JBE1MLhSNUO6ZB+d611Ua40A5CaWIjydYuFHAo4glvqzOfPSWMf8efa2
